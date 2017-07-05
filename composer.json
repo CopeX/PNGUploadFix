@@ -1,0 +1,17 @@
+{
+    "name": "copex/pnguploadfix",
+    "license": [
+        "GPL-3.0"
+    ],
+    "type": "magento-module",
+    "description": "Fixes PNG upload handling that caused a black background",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "authors":[
+        {
+            "name":"Andreas Pointner",
+            "email":"andreas.pointner@copex.io"
+        }
+    ]
+}
